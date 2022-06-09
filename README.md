@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **gijigeorge07@gmail.com**
 
-- ⚡ Fun fact **I think I'm funny**
+- ⚡ Fun fact **Undefined is defined in Javascript..! 😄**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
